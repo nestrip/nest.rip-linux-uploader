@@ -1,6 +1,0 @@
-[Service]
-Type=simple
-ExecStart=%h/.nest/uploader.sh
-Restart=on-failure
-[Install]
-WantedBy=default.target
