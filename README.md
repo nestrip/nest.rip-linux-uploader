@@ -4,7 +4,7 @@ This repository is a collection of scripts for uploading on nest.rip made by our
 
 ## Projects
 
-[hyprupload](https://github.com/PhoenixAceVFX/hyprupld/) - An AIO Linux Screenshot Script Collection
+[hyprupld](https://github.com/PhoenixAceVFX/hyprupld/) - A versatile screenshot and file upload utility for Linux
 
 [vnrez](https://github.com/verysillycat/vnrez) - Capture and share screenshots or videos and upload them on Linux effortlessly.
 
