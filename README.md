@@ -8,6 +8,8 @@ This repository is a collection of scripts for uploading on nest.rip made by our
 
 [vnrez](https://github.com/verysillycat/vnrez) - Capture and share screenshots or videos and upload them on Linux effortlessly.
 
+[hostman](https://github.com/keircn/hostman) - File uploader CLI written in C with support for just about every image host you can think of.
+
 ## Contributing
 
 If you have made a script or an applicaiton on linux for uploading on nest.rip, feel free to make a pull request or open a ticket on the [nest.rip discord](https://discord.gg/screenshots) to get it added to the list.
