@@ -10,6 +10,8 @@ This repository is a collection of scripts for uploading on nest.rip made by our
 
 [nest-dolphin](https://github.com/anotherpillow/nest-dolphin) - Share screensots and files directly via the CLI or use KDE Dolphin.
 
+[hostman](https://github.com/keircn/hostman) - File upload CLI written in C with support for just about any image host you can think of.
+
 ## Contributing
 
 If you have made a script or an applicaiton on linux for uploading on nest.rip, feel free to make a pull request or open a ticket on the [nest.rip discord](https://discord.gg/screenshots) to get it added to the list.
