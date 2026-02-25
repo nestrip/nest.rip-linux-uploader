@@ -12,6 +12,8 @@ This repository is a collection of scripts for uploading on nest.rip made by our
 
 [hostman](https://github.com/keircn/hostman) - File upload CLI written in C with support for just about any image host you can think of.
 
+[grabit](https://heliopolis.live/creations/grabit) - A versatile screenshot, screen recording, and file uploader with OCR support for multiple services including Zipline, Nest, and others.
+
 ## Contributing
 
 If you have made a script or an applicaiton on linux for uploading on nest.rip, feel free to make a pull request or open a ticket on the [nest.rip discord](https://discord.gg/screenshots) to get it added to the list.
