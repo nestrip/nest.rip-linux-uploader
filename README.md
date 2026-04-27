@@ -16,4 +16,4 @@ This repository is a collection of scripts for uploading on nest.rip made by our
 
 ## Contributing
 
-If you have made a script or an applicaiton on linux for uploading on nest.rip, feel free to make a pull request or open a ticket on the [nest.rip discord](https://discord.gg/screenshots) to get it added to the list.
+If you have made a script or an applicaiton on linux for uploading on nest.rip, feel free to make a pull request or open a ticket on the [nest.rip discord](https://discord.gg/hNkMfSY897) to get it added to the list.
