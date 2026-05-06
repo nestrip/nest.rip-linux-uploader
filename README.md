@@ -4,13 +4,15 @@ This repository is a collection of scripts for uploading on nest.rip made by our
 
 ## Projects
 
+[framr](https://github.com/vMohammad24/framr/) - A wayland only screenshot tool with uploading for any ShareX-compatible uploader. (first class NixOS support) (made by nest admin 😉)
+
 [vnrez](https://github.com/verysillycat/vnrez) - Capture and share screenshots or videos and upload them on Linux effortlessly.
 
 [nest-dolphin](https://github.com/anotherpillow/nest-dolphin) - Share screensots and files directly via the CLI or use KDE Dolphin.
 
 [hostman](https://github.com/keircn/hostman) - File upload CLI written in C with support for just about any image host you can think of.
 
-[grabit](https://heliopolis.live/creations/grabit) - A versatile screenshot, screen recording, and file uploader with OCR support for multiple services including Zipline, Nest, and others.
+[grabit](https://heliopolis.live/creations/grabit-c) - A versatile wayland only screenshot, screen recording, and file uploader with OCR support for multiple services including Zipline, Nest, and others.
 
 (DEPRECATED) [hyprupld](https://github.com/PhoenixAceVFX/hyprupld/) - A versatile screenshot and file upload utility for Linux
 
